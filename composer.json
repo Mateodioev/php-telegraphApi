@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mateodioev\\TelegrahApi\\": "src/"
+            "Mateodioev\\TelegraphApi\\": "src/"
         }
     },
     "minimum-stability": "stable"

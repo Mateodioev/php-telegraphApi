@@ -1,6 +1,6 @@
 <?php
 
-namespace Mateodioev\TelegrahApi\Types;
+namespace Mateodioev\TelegraphApi\Types;
 
 abstract class abstractType
 {

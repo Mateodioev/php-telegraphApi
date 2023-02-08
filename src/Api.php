@@ -1,12 +1,12 @@
 <?php
 
-namespace Mateodioev\TelegrahApi;
+namespace Mateodioev\TelegraphApi;
 
 use Mateodioev\Json\JSON;
 use Mateodioev\Json\JsonDecodeException;
 use Mateodioev\Request\Request;
-use Mateodioev\TelegrahApi\Types\Account;
-use Mateodioev\TelegrahApi\Types\Page;
+use Mateodioev\TelegraphApi\Types\Account;
+use Mateodioev\TelegraphApi\Types\Page;
 use Mateodioev\Utils\Arrays;
 use Mateodioev\Utils\Exceptions\RequestException;
 
