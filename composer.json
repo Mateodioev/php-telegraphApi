@@ -1,0 +1,17 @@
+{
+    "name": "mateodioev/telegrah_api",
+    "description": "Telegra.ph api",
+    "type": "library",
+    "require": {
+        "mateodioev/request": "^2.2",
+        "mateodioev/utils": "^1.4",
+        "mateodioev/jsondecoder": "^1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mateodioev\\TelegrahApi\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
